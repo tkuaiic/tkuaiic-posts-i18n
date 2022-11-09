@@ -1,0 +1,3 @@
+files:
+  - source: zh-hant.json
+    translation: /%original_path%/%language%.%file_extension%
