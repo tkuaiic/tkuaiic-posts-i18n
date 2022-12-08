@@ -1,0 +1,33 @@
+name: Crowdin translations master sync
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    # every day at 17:35 UTC
+    - cron:  '35 17 * * *'
+jobs:
+  synchronize-with-crowdin:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Download and push translations
+      uses: crowdin/github-action@1.3.3
+      with:
+        upload_sources: false
+        download_translations: true
+        localization_branch_name: master
+        create_pull_request: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
+        CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+        CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+    - name: Synchronize sources and translations
+      uses: crowdin/github-action@1.3.3
+      with:
+        upload_sources: true
+        upload_translations: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
+        CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+        CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
