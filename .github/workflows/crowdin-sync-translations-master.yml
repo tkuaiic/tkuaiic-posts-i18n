@@ -15,6 +15,7 @@ jobs:
     - name: Download and push translations
       uses: crowdin/github-action@1.5.1
       with:
+        crowdin_branch_name: master
         upload_sources: false
         download_translations: true
         localization_branch_name: master
@@ -28,6 +29,7 @@ jobs:
     - name: Synchronize sources and translations
       uses: crowdin/github-action@1.5.1
       with:
+        crowdin_branch_name: master
         upload_sources: true
         upload_translations: true
       env:
