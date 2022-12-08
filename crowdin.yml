@@ -1,3 +1,5 @@
+api_token_env: CROWDIN_PERSONAL_TOKEN
+project_id_env: CROWDIN_PROJECT_ID
 files:
-  - source: zh-hant.json
+  - source: zh-hant.*
     translation: /%original_path%/%language%.%file_extension%
