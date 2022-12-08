@@ -1,7 +1,5 @@
-api_token: 1d26bc30939d319ff691deb8c01f112905401257f4ec9cdf5ae7895b1240412565449e61e6170723
-project_id: 548197
-# api_token_env: CROWDIN_PERSONAL_TOKEN
-# project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_PERSONAL_TOKEN
+project_id_env: CROWDIN_PROJECT_ID
 files:
   - source: /**/zh-hant.*
     translation: /**/%locale%.%file_extension%
