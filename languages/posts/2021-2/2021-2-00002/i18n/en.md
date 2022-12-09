@@ -2,7 +2,7 @@
 
 Hello, everyone,
 
-終於到了我們公布本學期社團重大規畫的時刻！
+It's the time to announce the major plans for this semester (2022-2) of our club!
 
 &nbsp;
 
@@ -10,7 +10,7 @@ Hello, everyone,
 
 You only need to pay $200 TWD/semester to get the membership of the club!
 
-就可以擁有總計13場講座、共46小時的實戰工作坊和講座，
+With the membership of our club, you can attend about 13 lectures and workshops held by our club with the total of 46 hours.
 
 Special thanks to the supports and sponsors from College of Engineering and College of Artificial Innovative Intelligence,
 
@@ -20,21 +20,21 @@ including the perfect places and facilities they provided and the financial supp
 
 ｜📍 Location of the Club Courses｜
 
-3rd Floor, Building E (Main Engineering Building) Reality Fields, College of Artificial Innovative Intelligence, Tamkang University
+Reality Fields, College of Artificial Innovative Intelligence <br />3rd Floor, Main Engineering Building (Building E), Tamkang University
 
 &nbsp;
 
-｜⏰ 社課時間｜
+｜📍 Course Time｜
 
-常態社課時間暫定在每週二18:00～20:00，
+Course time of regular courses are temporarily scheduled at 18:00 - 20:00 (UTC+8) Tuesday each week.
 
-部分講座課程或工作坊會安排在假日
+Part of the lectures and workshops will be scheduled at weekends.
 
 &nbsp;
 
 ｜🪄 Plans for the Club Courses｜
 
-我們規劃AI相關的社課分為三種：
+The AI-related courses we planned are divided into the following types:
 
 1. School-wide: 2 courses, with the total of 24 hours
 
@@ -60,15 +60,15 @@ including the perfect places and facilities they provided and the financial supp
 
 &nbsp;
 
-未來也希望我們可以邀請到Youtuber，
+It is also hoped that we could invite YouTubers
 
-針對網路行銷進行經驗分享~
+to share their knowledge and experiences about internet marketing.
 
 &nbsp;
 
 \- Workshops -
 
-每天都在聽課的大家想必一定累壞了吧，
+Listening to the school courses everyday makes you feel very tired, right?
 
 想要學習又可以馬上實作的上課模式，
 
@@ -82,9 +82,9 @@ including the perfect places and facilities they provided and the financial supp
 
 &nbsp;
 
-\- Lectures -
+\- Small-sized Lectures -
 
-想多了解元宇宙、區塊鏈、行銷資料科學嗎？
+Want to learn something about metaverse, blockchain or marketing data science?
 
 這些都是為了社員舉辦的講座！
 
@@ -94,7 +94,7 @@ including the perfect places and facilities they provided and the financial supp
 
 &nbsp;
 
-\- 認證、修課證明 -
+\- Certification & Course Certificate -
 
 參與社課除了可以在某些課程中拿到BC參與/執行認證外，
 
@@ -104,7 +104,7 @@ including the perfect places and facilities they provided and the financial supp
 
 &nbsp;
 
-\- 企業參訪 -
+\- Corporate Visits -
 
 我們也正在規劃一些企業參訪，
 

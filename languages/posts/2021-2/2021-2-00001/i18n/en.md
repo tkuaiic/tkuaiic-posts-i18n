@@ -54,7 +54,7 @@ Mar. 4 | Foundation plan presented to the Professor and Dean of the College of E
 
 🚩 The location of our club office:
 
-3rd Floor, Building E (Main Engineering Building) Reality Fields, College of Artificial Innovative Intelligence, Tamkang University
+Reality Fields, College of Artificial Innovative Intelligence <br />3rd Floor, Main Engineering Building (Building E), Tamkang University
 
 &nbsp;
 
