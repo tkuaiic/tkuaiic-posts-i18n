@@ -12,9 +12,9 @@ You only need to pay $200 TWD/semester to get the membership of the club!
 
 就可以擁有總計13場講座、共46小時的實戰工作坊和講座，
 
-特別感謝本校「工學院」與「AI創智學院」對我們的支持與贊助，
+Special thanks to the supports and sponsors from College of Engineering and College of Artificial Innovative Intelligence,
 
-不只提供優良的場地和設施，也大力資助講座和工作坊～
+including the perfect places and facilities they provided and the financial support for lectures and workshops.
 
 &nbsp;
 
