@@ -48,7 +48,7 @@ The AI-related courses we planned are divided into the following types:
 
 希望透過全校型的講座或工作坊，
 
-能夠帶大家瞭解自己的領域如何與AI結合
+能夠帶大家瞭解自己的領域如何與AI結合。
 
 &nbsp;
 
@@ -78,7 +78,7 @@ Listening to the school courses everyday makes you feel very tired, right?
 
 這部分課程如果有需要C執行認證的同學可以報名，
 
-當工作坊的助教，協助同學們實作
+當工作坊的助教，協助同學們實作。
 
 &nbsp;
 
@@ -100,7 +100,7 @@ Want to learn something about metaverse, blockchain or marketing data science?
 
 還希望能夠給予社員們修課證明，
 
-增加各自領域中的競爭力
+增加各自領域中的競爭力。
 
 &nbsp;
 
@@ -130,7 +130,7 @@ Want to learn something about metaverse, blockchain or marketing data science?
 
 對我們的社團課程及福利有興趣的同學們，
 
-歡迎加入我們滿滿的知識殿堂 ٩(˃̶͈̀௰˂̶͈́)و
+歡迎加入我們滿滿的知識殿堂！
 
 &nbsp;
 
