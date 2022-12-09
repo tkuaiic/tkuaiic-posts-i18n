@@ -46,7 +46,7 @@ The AI-related courses we planned are divided into the following types:
 
 \- School-wide -
 
-By these school-wide lectures and workshops,
+With these school-wide lectures and workshops,
 
 we hope that everyone can know how to bring and combine AI to their field of study.
 
@@ -86,7 +86,7 @@ Listening to the school courses everyday makes you feel very tired, right?
 
 Want to learn something about metaverse, blockchain or marketing data science?
 
-這些都是為了社員舉辦的講座！
+These lectures are all held for club members!
 
 &nbsp;
 
@@ -106,7 +106,7 @@ Want to learn something about metaverse, blockchain or marketing data science?
 
 \- Corporate Visits -
 
-我們也正在規劃一些企業參訪，
+We're also planning some corporate visits,
 
 帶我們更深入瞭解企業願景、文化、產業發展趨勢等，
 
@@ -114,13 +114,13 @@ Want to learn something about metaverse, blockchain or marketing data science?
 
 &nbsp;
 
-\- 證照考試 -
+\- Certificate Examinations -
 
-鼓勵同學將所學驗收，
+We encourage our members to examine what they learned,
 
-並成為履歷中亮眼的一部分，
+and become the highlights of their résumé.
 
-為跨領域發展得到有力的證明！
+These will becoma the strong proof of their abilities, especially in cross-subject development.
 
 &nbsp;
 
@@ -128,9 +128,9 @@ Want to learn something about metaverse, blockchain or marketing data science?
 
 &nbsp;
 
-對我們的社團課程及福利有興趣的同學們，
+If you're interested in our club courses and benefits,
 
-歡迎加入我們滿滿的知識殿堂！
+join us and enter the way of knowledge immediately!
 
 &nbsp;
 
@@ -138,7 +138,7 @@ We are also recruiting club cadres,
 
 with the details recently posted in Dcard.
 
-歡迎志同道合的夥伴一起共創未來！
+If you share the same interests and goals with us, welcome to join us and create our future together!
 
 &nbsp;
 
