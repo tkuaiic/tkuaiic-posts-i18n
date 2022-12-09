@@ -6,9 +6,9 @@ Hello, everyone,
 
 &nbsp;
 
-｜💰 社費｜
+｜💰 Membership Fee｜
 
-社費只需要200元！
+You only need to pay $200 TWD/semester to get the membership of the club!
 
 就可以擁有總計13場講座、共46小時的實戰工作坊和講座，
 
@@ -18,7 +18,7 @@ Hello, everyone,
 
 &nbsp;
 
-｜📍 社課地點｜
+｜📍 Location of the Club Classes｜
 
 3rd Floor, Building E (Main Engineering Building) Reality Fields, College of Artificial Innovative Intelligence, Tamkang University
 
@@ -44,7 +44,7 @@ Hello, everyone,
 
 &nbsp;
 
-\- 全校型 -
+\- School-wide -
 
 希望透過全校型的講座或工作坊，
 
@@ -66,7 +66,7 @@ Hello, everyone,
 
 &nbsp;
 
-\- 工作坊 -
+\- Workshops -
 
 每天都在聽課的大家想必一定累壞了吧，
 
@@ -82,7 +82,7 @@ Hello, everyone,
 
 &nbsp;
 
-\- 小型講座 -
+\- Lectures -
 
 想多了解元宇宙、區塊鏈、行銷資料科學嗎？
 
@@ -134,9 +134,9 @@ Hello, everyone,
 
 &nbsp;
 
-另外，我們也有招幕幹部，
+We are also recruiting club cadres,
 
-近期也會有詳細資訊公布於Dcard，
+with the details recently posted in Dcard.
 
 歡迎志同道合的夥伴一起共創未來！
 
