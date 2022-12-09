@@ -6,11 +6,11 @@
 
 本次招募幹部組別包含：
 
-（一）美宣組：負責設計本社美工事務。
+1. Arts Section: Responsible for the art affairs of the club.
 
-（二）財務組：總理本社財務收支。
+2. Financial Affairs Section: Responsible for the financial affairs, including revenues and expenditure, of the club.
 
-（三）器材組：管理本社團所有之視聽設備、道具及使用場地之整理、借還。
+3. Equipment Section: Responsible for managing all club-managed equipments including audiovisual equipments, gadgets, and the borrow, prepare, restore, return of club-borrowed places
 
 （四）文書組：撰寫會議紀錄、企劃書及協助文案等文書事宜。
 
@@ -26,7 +26,7 @@
 
 ✨專案 / 業界人物專訪參與機會
 
-✨幹部專屬證照課程。以本學期為例，我們與AI創智學院合作可以以優惠價格考取證照
+✨幹部專屬證照課程。✨幹部專屬證照課程。以本學期為例，我們與AI創智學院合作可以以優惠價格考取證照
 
 ✨每月邀請業師開講的幹部訓練
 
@@ -70,7 +70,9 @@
 
 &nbsp;
 
-（招生招幹表單在頭貼下方的超連結）
+連結：
+
+https://docs.google.com/forms/d/e/1FAIpQLSeaq6g3wujaJdkC6P8eYWCBH2nWoh6v4mvr2jUS-mF9PtfhKw/viewform
 
 &nbsp;
 
