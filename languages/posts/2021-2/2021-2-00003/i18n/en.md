@@ -14,7 +14,7 @@ The following sections are open for applications:
 
 4. Document Section: Responsible for document affairs including meeting records, activity proposals, marketing copies.
 
-5. Public Relationship Section: Responsible for public relationship affairs including external affairs, fundraising, interchange.
+5. Public Relationship Section: Responsible for public relationship affairs including external affairs, fundraising, interaction.
 
 &nbsp;
 
@@ -34,37 +34,37 @@ Below are the special benefits to becoming a club cadre:
 
 &nbsp;
 
-最後，
+Lastly,
 
-我們想跟有興趣的大家再次傳達我們的核心理念：
-
-&nbsp;
-
-現在AI在各處都能看見，
-
-不論你是甚麼領域的，
-
-我們都希望能利用AI創造出有價值的東西。
+we would like to present our core values to those who have interests again:
 
 &nbsp;
 
-為了打造這條路，
+AI is almost everywhere now.
 
-我們積極地彙整資源、舉辦多元活動，
+No matter which field of study you are currently in,
 
-以及創造各方的交流機會。
-
-&nbsp;
-
-與此同時，
-
-我們也尤其重視幹部的培訓。
+we hope you can create valuable things by using the technology of AI.
 
 &nbsp;
 
-如果遇到也充滿學習動力和積極的你，
+To create and build this path,
 
-歡迎加入我們，
+we integrate resources, hold activities,
+
+and create interaction chances positively.
+
+&nbsp;
+
+At the same time,
+
+we attach great importance to cadre training.
+
+&nbsp;
+
+If you're the one full of learning energy and being positive,
+
+welcome to join us,
 
 and hope to work with you!
 

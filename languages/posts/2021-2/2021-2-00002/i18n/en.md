@@ -100,7 +100,7 @@ These lectures are all hold for club members!
 
 還希望能夠給予社員們修課證明，
 
-增加各自領域中的競爭力。
+increase the competitiveness of their field of study respectively.
 
 &nbsp;
 
@@ -108,9 +108,9 @@ These lectures are all hold for club members!
 
 We're also planning some corporate visits,
 
-帶我們更深入瞭解企業願景、文化、產業發展趨勢等，
+to help us have more understandings about company visions, cultures, industry trends, etc.,
 
-讓學生提早做好規畫及儲備職場核心能力
+讓學生提早做好規畫及儲備職場核心能力。
 
 &nbsp;
 
@@ -120,7 +120,7 @@ We encourage our members to examine what they learned,
 
 and become the highlights of their résumé.
 
-These will becoma the strong proof of their abilities, especially in cross-subject development.
+These will become the strong proof of their abilities, especially in cross-subject development.
 
 &nbsp;
 
