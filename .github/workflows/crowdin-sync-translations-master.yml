@@ -32,7 +32,7 @@ jobs:
       with:
         crowdin_branch_name: master
         upload_sources: true
-        upload_translations: true
+        upload_translations: false
       env:
         GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
         CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
