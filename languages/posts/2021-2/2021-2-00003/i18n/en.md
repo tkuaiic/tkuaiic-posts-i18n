@@ -6,15 +6,15 @@
 
 The following sections are open for applications:
 
-1. Arts Section: Responsible for the art affairs of the club.
+(a) Arts Section: Responsible for the art affairs of the club.
 
-2. Financial Affairs Section: Responsible for the financial affairs, including revenues and expenditure, of the club.
+(b) Financial Affairs Section: Responsible for the financial affairs, including revenues and expenditure, of the club.
 
-3. Equipment Section: Responsible for managing all club-managed equipments including audiovisual equipments, gadgets, and the borrow, prepare, restore, return of club-borrowed places
+(c) Equipment Section: Responsible for managing all club-managed equipments including audiovisual equipments, gadgets, and the borrow, prepare, restore, return of club-borrowed places
 
-4. Document Section: Responsible for document affairs including meeting records, activity proposals, marketing copies
+(d) Document Section: Responsible for document affairs including meeting records, activity proposals, marketing copies
 
-5. Public Relationship Section: Responsible for public relationship affairs including external affairs, fundraising, interchange
+(e) Public Relationship Section: Responsible for public relationship affairs including external affairs, fundraising, interchange
 
 &nbsp;
 

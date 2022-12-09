@@ -46,9 +46,9 @@ The AI-related courses we planned are divided into the following types:
 
 \- School-wide -
 
-希望透過全校型的講座或工作坊，
+By these school-wide lectures and workshops,
 
-能夠帶大家瞭解自己的領域如何與AI結合。
+we hope that everyone can know how to bring and combine AI to their field of study.
 
 &nbsp;
 
