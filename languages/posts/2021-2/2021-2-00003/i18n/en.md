@@ -12,7 +12,7 @@
 
 3. Equipment Section: Responsible for managing all club-managed equipments including audiovisual equipments, gadgets, and the borrow, prepare, restore, return of club-borrowed places
 
-（四）文書組：撰寫會議紀錄、企劃書及協助文案等文書事宜。
+4. Document Section: Responsible for document affairs including meeting records, activity proposals, marketing copies
 
 （五）公關組：管理本社團對外、募款及交流事宜。
 
@@ -26,7 +26,7 @@
 
 ✨專案 / 業界人物專訪參與機會
 
-✨幹部專屬證照課程。✨幹部專屬證照課程。以本學期為例，我們與AI創智學院合作可以以優惠價格考取證照
+✨幹部專屬證照課程。以本學期為例，我們與AI創智學院合作可以以優惠價格考取證照
 
 ✨每月邀請業師開講的幹部訓練
 
