@@ -142,7 +142,9 @@ AI創智學院實境場域（工學大樓3樓）
 
 &nbsp;
 
-（招生招幹表單於頭貼下方的超連結）
+連結：
+
+https://docs.google.com/forms/d/e/1FAIpQLSeaq6g3wujaJdkC6P8eYWCBH2nWoh6v4mvr2jUS-mF9PtfhKw/viewform
 
 &nbsp;
 
