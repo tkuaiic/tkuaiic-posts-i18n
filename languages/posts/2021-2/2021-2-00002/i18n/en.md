@@ -32,15 +32,15 @@ including the perfect places and facilities they provided and the financial supp
 
 &nbsp;
 
-｜🪄 社課規劃｜
+｜🪄 Plans for the Club Courses｜
 
 我們規劃AI相關的社課分為三種：
 
-1. 全校型 2 場，時數共 24 小時
+1. School-wide: 2 courses, with the total of 24 hours
 
-2. 中型 3 場，時數共 6 小時
+2. Medium-sized: 3 courses, with the total of 6 hours
 
-3. 小型 8 場，時數共 16 小時
+3. Small-sized: 8 courses, with the total of 16 hours
 
 &nbsp;
 
@@ -90,7 +90,7 @@ including the perfect places and facilities they provided and the financial supp
 
 &nbsp;
 
-｜💎 參與社團福利｜
+｜💎 Benefits for participating in club activities｜
 
 &nbsp;
 
@@ -110,7 +110,7 @@ including the perfect places and facilities they provided and the financial supp
 
 帶我們更深入瞭解企業願景、文化、產業發展趨勢等，
 
-讓學生提早做好規劃及儲備職場核心能力
+讓學生提早做好規畫及儲備職場核心能力
 
 &nbsp;
 
