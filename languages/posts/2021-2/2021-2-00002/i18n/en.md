@@ -52,11 +52,11 @@ we hope that everyone can know how to bring and combine AI to their field of stu
 
 &nbsp;
 
-另外也會輔導大家做職涯探索，
+Also, we would provide assistance for career explorations,
 
-針對人資、履歷相關議題進行授課、實作，
+including learning and practices, targeting human resources and résumé related things,
 
-幫助以後進入職場的同學更容易找到自己的出路！
+to help them find their own way out more easily when they enter the workplace in the future.
 
 &nbsp;
 
@@ -70,15 +70,15 @@ to share their knowledge and experiences about internet marketing.
 
 Listening to the school courses everyday makes you feel very tired, right?
 
-想要學習又可以馬上實作的上課模式，
+If you want to have some hands-on learning,
 
-工作坊的課程絕對不會讓你想睡覺的！
+just participate our workshop without being tired!
 
 &nbsp;
 
-這部分課程如果有需要C執行認證的同學可以報名，
+If you need the Administration Certification (part C), you can enroll this type of the activities,
 
-當工作坊的助教，協助同學們實作。
+be one of the activity staffs as a teaching assistant in the workshop, to get the certificate.
 
 &nbsp;
 
@@ -142,7 +142,9 @@ If you share the same interests and goals with us, welcome to join us and create
 
 &nbsp;
 
-（招生招幹表單於頭貼下方的超連結）
+Link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeaq6g3wujaJdkC6P8eYWCBH2nWoh6v4mvr2jUS-mF9PtfhKw/viewform
 
 &nbsp;
 
