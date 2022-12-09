@@ -6,15 +6,15 @@
 
 The following sections are open for applications:
 
-（一）美宣組：負責設計本社美工事務。
+1. Arts Section: Responsible for the art affairs of the club.
 
-（二）財務組：總理本社財務收支。
+2. Financial Affairs Section: Responsible for the financial affairs, including revenues and expenditure, of the club.
 
-（三）器材組：管理本社團所有之視聽設備、道具及使用場地之整理、借還。
+3. Equipment Section: Responsible for managing all club-managed equipments including audiovisual equipments, gadgets, and the borrow, prepare, restore, return of club-borrowed places.
 
-（四）文書組：撰寫會議紀錄、企畫書及協助文案等文書事宜。
+4. Document Section: Responsible for document affairs including meeting records, activity proposals, marketing copies.
 
-（五）公關組：管理本社團對外、募款及交流事宜。
+5. Public Relationship Section: Responsible for public relationship affairs including external affairs, fundraising, interchange.
 
 &nbsp;
 
