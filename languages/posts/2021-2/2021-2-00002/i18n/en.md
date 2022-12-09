@@ -86,7 +86,7 @@ be one of the activity staffs as a teaching assistant in the workshop, to get th
 
 Want to learn something about metaverse, blockchain or marketing data science?
 
-These lectures are all held for club members!
+These lectures are all hold for club members!
 
 &nbsp;
 
