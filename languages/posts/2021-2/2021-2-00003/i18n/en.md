@@ -14,11 +14,11 @@
 
 4. Document Section: Responsible for document affairs including meeting records, activity proposals, marketing copies
 
-（五）公關組：管理本社團對外、募款及交流事宜。
+5. Public Relationship Section: Responsible for public relationship affairs including external affairs, fundraising, interchange
 
 &nbsp;
 
-成為幹部，將享有以下幹部專屬福利：
+Below are the special benefits to becoming a club cadre:
 
 &nbsp;
 
