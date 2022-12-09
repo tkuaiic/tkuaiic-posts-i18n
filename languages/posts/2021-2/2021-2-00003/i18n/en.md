@@ -4,7 +4,7 @@
 
 &nbsp;
 
-本次招募幹部組別包含：
+The following sections are open for applications:
 
 1. Arts Section: Responsible for the art affairs of the club.
 
@@ -22,15 +22,15 @@ Below are the special benefits to becoming a club cadre:
 
 &nbsp;
 
-✨優先參加社團對外舉辦的推廣活動 / 工作坊
+✨ 優先參加社團對外舉辦的推廣活動 / 工作坊
 
-✨專案 / 業界人物專訪參與機會
+✨ 專案 / 業界人物專訪參與機會
 
-✨幹部專屬證照課程。以本學期為例，我們與AI創智學院合作可以以優惠價格考取證照
+✨ 幹部專屬證照課程。以本學期為例，我們與AI創智學院合作可以以優惠價格考取證照
 
-✨每月邀請業師開講的幹部訓練
+✨ 每月邀請業師開講的幹部訓練
 
-✨免社費！
+✨ Free of membership fee!
 
 &nbsp;
 
@@ -70,7 +70,7 @@ Below are the special benefits to becoming a club cadre:
 
 &nbsp;
 
-連結：
+Link:
 
 https://docs.google.com/forms/d/e/1FAIpQLSeaq6g3wujaJdkC6P8eYWCBH2nWoh6v4mvr2jUS-mF9PtfhKw/viewform
 

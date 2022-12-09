@@ -18,7 +18,7 @@ including the perfect places and facilities they provided and the financial supp
 
 &nbsp;
 
-｜📍 Location of the Club Classes｜
+｜📍 Location of the Club Courses｜
 
 3rd Floor, Building E (Main Engineering Building) Reality Fields, College of Artificial Innovative Intelligence, Tamkang University
 
