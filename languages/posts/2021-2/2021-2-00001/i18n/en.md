@@ -18,7 +18,7 @@ Finally, we founded our club on March 11th!
 
 &nbsp;
 
-What is the impression of AI that your have?
+How about you? What is the impression of AI that your have?
 
 &nbsp;
 
