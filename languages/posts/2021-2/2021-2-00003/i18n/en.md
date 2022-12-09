@@ -26,7 +26,7 @@ Below are the special benefits to becoming a club cadre:
 
 ✨ 專案 / 業界人物專訪參與機會
 
-✨ 幹部專屬證照課程。以本學期為例，我們與AI創智學院合作可以以優惠價格考取證照
+✨ Club-cadre-only certificate courses. 以本學期為例，我們與AI創智學院合作可以以優惠價格考取證照
 
 ✨ 每月邀請業師開講的幹部訓練
 
@@ -42,9 +42,9 @@ Below are the special benefits to becoming a club cadre:
 
 現在AI在各處都能看見，
 
-不論你是甚麼領域的我們都希望能利用AI，
+不論你是甚麼領域的，
 
-創造出有價值的東西。
+我們都希望能利用AI創造出有價值的東西。
 
 &nbsp;
 
@@ -58,7 +58,7 @@ Below are the special benefits to becoming a club cadre:
 
 與此同時，
 
-也尤其重視幹部的培訓。
+我們也尤其重視幹部的培訓。
 
 &nbsp;
 
