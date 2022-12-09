@@ -70,7 +70,9 @@
 
 &nbsp;
 
-（招生招幹表單在頭貼下方的超連結）
+連結：
+
+https://docs.google.com/forms/d/e/1FAIpQLSeaq6g3wujaJdkC6P8eYWCBH2nWoh6v4mvr2jUS-mF9PtfhKw/viewform
 
 &nbsp;
 
