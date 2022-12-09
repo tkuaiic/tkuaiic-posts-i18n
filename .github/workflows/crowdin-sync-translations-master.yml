@@ -18,6 +18,7 @@ jobs:
         crowdin_branch_name: master
         upload_sources: false
         download_translations: true
+        skip_untranslated_strings: true
         localization_branch_name: master
         push_translations: true
         commit_message: 'Localisation updates from https://crowdin.com'
