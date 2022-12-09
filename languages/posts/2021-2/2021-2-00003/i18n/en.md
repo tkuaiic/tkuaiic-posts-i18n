@@ -66,7 +66,7 @@ Below are the special benefits to becoming a club cadre:
 
 歡迎加入我們，
 
-也期待與你共事！
+and hope to work with you!
 
 &nbsp;
 
