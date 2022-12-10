@@ -96,9 +96,9 @@ These lectures are all hold for club members!
 
 \- Certification & Course Certificate -
 
-參與社課除了可以在某些課程中拿到BC參與/執行認證外，
+By participating our club courses, you can get the Participation Certification and/or Administration Certification (part B & C).
 
-還希望能夠給予社員們修課證明，
+We also planned to give some course certificates to our club members,
 
 increase the competitiveness of their field of study respectively.
 
