@@ -108,9 +108,9 @@ increase the competitiveness of their field of study respectively.
 
 We're also planning some corporate visits,
 
-to help us have more understandings about company visions, cultures, industry trends, etc.,
+bring us more understandings about company visions, cultures, industry trends, etc.,
 
-讓學生提早做好規畫及儲備職場核心能力。
+to let them plan ahead and reserve core competencies in the workplace.
 
 &nbsp;
 
