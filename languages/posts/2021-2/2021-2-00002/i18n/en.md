@@ -56,7 +56,7 @@ Also, we would provide assistance for career explorations,
 
 including learning and practices, targeting human resources and résumé related things,
 
-to help them find their own way out more easily when they enter the workplace in the future.
+to help them find their own way out more easily when they enter workplaces in the future.
 
 &nbsp;
 
@@ -110,7 +110,7 @@ We're also planning some corporate visits,
 
 bring us more understandings about company visions, cultures, industry trends, etc.,
 
-to let them plan ahead and reserve core competencies in the workplace.
+to let them plan ahead and reserve core competencies in workplaces.
 
 &nbsp;
 
