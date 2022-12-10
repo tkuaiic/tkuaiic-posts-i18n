@@ -1,6 +1,6 @@
 **[ 社員迎新大會 ]**
 
-「AI創智社社課上什麼？」
+"What can we learn from the club courses of the Artificial Innovative Intelligence Club?"
 
 這大概是小編我最常被問到的問題……
 
@@ -28,15 +28,15 @@ At March 22 (next week),
 
 &nbsp;
 
-活動時間：3月22日 18:00-20:00（吃飽再來喔！）
+Time: Tuesday, March 22, 2022 18:00 - 20:00 <br />(Remember to finish your dinner before you come!)
 
 Location: <br />Reality Fields, College of Artificial Innovative Intelligence <br />3rd Floor, Main Engineering Building (Building E), Tamkang University
 
 &nbsp;
 
-社員迎新大會報名表單連結：已截止
+Link of the enrollment form: (end of enrollment)
 
-表單截止：3月21日 18:00前
+End of enrollment of the form: Monday, March 21, 18:00 (UTC+8)
 
 &nbsp;
 
