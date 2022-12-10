@@ -76,7 +76,7 @@ just participate our workshop without being tired!
 
 &nbsp;
 
-If you need the Administration Certification (part C), you can enroll this type of the activities,
+If you need the Administration Certificate, you can enroll this type of the activities,
 
 be one of the activity staffs as a teaching assistant in the workshop, to get the certificate.
 
@@ -96,7 +96,7 @@ These lectures are all hold for club members!
 
 \- Club Certificates & Course Certificates -
 
-By participating our club courses, you can get the Participation Certification and/or Administration Certification (part B & C).
+By participating our club courses, you can get the Participation Certificate(s) and/or Administration Certificate.
 
 We also planned to give some course certificates to our club members,
 
