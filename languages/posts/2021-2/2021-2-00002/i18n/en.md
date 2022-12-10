@@ -2,7 +2,7 @@
 
 Hello, everyone,
 
-It's the time to announce the major plans for this semester (2022-2) of our club!
+It's the time to announce the major plans for this semester (2021-2) of our club!
 
 &nbsp;
 
@@ -94,7 +94,7 @@ These lectures are all hold for club members!
 
 &nbsp;
 
-\- Certification & Course Certificate -
+\- Club Certificates & Course Certificates -
 
 By participating our club courses, you can get the Participation Certification and/or Administration Certification (part B & C).
 
