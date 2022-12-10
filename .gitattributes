@@ -1,4 +1,5 @@
 *.sh eol=lf
+*.md eol=lf
 *.icc binary
 *.webp binary
 *.mp3 binary
