@@ -1,10 +1,10 @@
-**[ 社課規畫 ]**_
+**[ Plans for the Club Courses ]**
 
 社課規畫懶人包這邊整理給大家囉！
 
 &nbsp;
 
-｜週二社課｜
+｜Tuesday: Club Courses｜
 
 一般社課於週二18:10-20:00進行，
 
@@ -16,7 +16,7 @@
 
 &nbsp;
 
-｜週四專案｜
+｜Thursday: Project(s)｜
 
 週四18:10-20:00的專案讀書會，
 
@@ -26,7 +26,7 @@
 
 &nbsp;
 
-｜週末網管｜
+｜Weekends: Sysadmin Trainings｜
 
 本課程會教導網路管理的專業知識，
 
