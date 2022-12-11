@@ -1,4 +1,4 @@
-**[ 社員迎新大會 ]**
+**[ General Meeting & Orientation Event ]**
 
 "What can we learn from the club courses of the Artificial Innovative Intelligence Club?"
 
@@ -8,7 +8,7 @@
 
 At March 22 (next week),
 
-我們將會舉辦正式的社課內容介紹！
+there will be a formal event to introduce our club courses!
 
 &nbsp;
 
