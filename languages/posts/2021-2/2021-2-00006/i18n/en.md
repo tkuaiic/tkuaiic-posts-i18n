@@ -1,10 +1,10 @@
 **[ Membership Fee ]**
 
-最豐富的社課只要200元！
+You only need to pay 200 TWD per semester to have those extremely rich club courses!
 
-還不快手刀加入、
+What are you hesitating for?
 
-填寫入社報名表單？
+Just fill the membership sign-up form now!
 
 &nbsp;
 
@@ -24,4 +24,4 @@ Line Official Account: @tkuaiic <br />https://line.me/R/ti/p/@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 
-Gmail： tkuaiic@gmail.com
+Gmail <br />tkuaiic@gmail.com

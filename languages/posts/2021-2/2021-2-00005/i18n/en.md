@@ -6,9 +6,9 @@
 
 ｜Tuesday: Club Courses｜
 
-Regular courses are scheduled on Tuesday 18:10 to 20:00 (UTC+8).
+Regular courses are scheduled on Tuesday 18:10 to 20:00 (UTC+8),
 
-只有特定幾個時段會在假日，
+with some club courses are scheduled at weekends.
 
 讓大家認識AI如何結合各領域，
 
@@ -28,11 +28,11 @@ Regular courses are scheduled on Tuesday 18:10 to 20:00 (UTC+8).
 
 ｜Weekends: Sysadmin Trainings｜
 
-本課程會教導網路管理的專業知識，
+Sysadmin training courses will teach a great deal of knowledge about server & internet administration.
 
-上課時間為週末，
+These courses are scheduled at weekends,
 
-學習總時數為48小時，
+with the total of 48 hours.
 
 如果網管學得好的話，
 

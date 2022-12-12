@@ -2,7 +2,7 @@
 
 "What can we learn from the club courses of the Artificial Innovative Intelligence Club?"
 
-這大概是小編我最常被問到的問題……
+This is probably the most frequently question being asked about our club.
 
 &nbsp;
 
@@ -12,13 +12,13 @@ there will be a formal event to introduce our club courses!
 
 &nbsp;
 
-想瞭解AI創智社的大家都可以參加，
+Anyone who want to figure out what our club is about can participate this event,
 
-讓各位更清楚我們的社課內容、福利等等，
+and understand more about our club, including club courses, benefits, etc.
 
-當然也會準備一些和AI相關的小遊戲，
+There will have some AI-related group games, icebreakers,
 
-讓大家稍微認識一下，
+to help the club members to familiarize each other.
 
 期許各位在未來能夠和志同道合的朋友多多交流！
 
