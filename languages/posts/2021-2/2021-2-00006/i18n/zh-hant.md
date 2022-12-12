@@ -25,4 +25,3 @@ LINE官方帳號：@tkuaiic
 LinkedIn：TKU AI創智社
 
 Gmail： tkuaiic@gmail.com
-
