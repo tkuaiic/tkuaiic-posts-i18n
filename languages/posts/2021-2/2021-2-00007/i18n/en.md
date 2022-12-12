@@ -1,16 +1,22 @@
-**[ Membership Fee ]**
+**[ 4月10日 | AI跨域整合工作坊 - Part 1 ]**
 
-最豐富的社課只要200元！
-
-還不快手刀加入、
-
-填寫入社報名表單？
+AI跨域整合工作坊 - Part 1
 
 &nbsp;
 
-Link:
+首發是我們的AI與工學相關科系的結合，
 
-https://docs.google.com/forms/d/e/1FAIpQLSeaq6g3wujaJdkC6P8eYWCBH2nWoh6v4mvr2jUS-mF9PtfhKw/viewform
+我們邀請到了台大土木系的吳日滕教授！
+
+詳細授課內容及方式也歡迎詳閱淡江活動報名系統！
+
+&nbsp;
+
+搜尋AI跨域整合
+
+4月8日 12:00 正式開放報名
+
+截至活動開始！
 
 &nbsp;
 
