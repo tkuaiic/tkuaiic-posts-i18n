@@ -26,4 +26,4 @@ Line Official Account: @tkuaiic <br />https://line.me/R/ti/p/@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 
-Gmail <br />tkuaiic@gmail.com
+Gmail: <br />tkuaiic@gmail.com

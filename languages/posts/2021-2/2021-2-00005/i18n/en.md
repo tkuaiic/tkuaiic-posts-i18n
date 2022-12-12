@@ -1,6 +1,6 @@
 **[ Plans for the Club Courses ]**
 
-社課規畫懶人包這邊整理給大家囉！
+Here's a brief summary about our club courses:
 
 &nbsp;
 
