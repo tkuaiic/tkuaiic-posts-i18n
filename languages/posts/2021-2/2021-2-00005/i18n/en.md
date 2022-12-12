@@ -6,7 +6,7 @@
 
 ｜Tuesday: Club Courses｜
 
-一般社課於週二18:10-20:00進行，
+Regular courses are scheduled on Tuesday 18:10 to 20:00 (UTC+8).
 
 只有特定幾個時段會在假日，
 

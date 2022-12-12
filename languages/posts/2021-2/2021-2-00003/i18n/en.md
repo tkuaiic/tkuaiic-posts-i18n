@@ -22,13 +22,13 @@ Below are the special benefits to becoming a club cadre:
 
 &nbsp;
 
-✨ 優先參加社團對外舉辦的推廣活動 / 工作坊
+✨ Having the priority of participation for club-held activities, events including workshops
 
-✨ 專案 / 業界人物專訪參與機會
+✨ Project / industry visit / special interview opportunities
 
-✨ Club-cadre-only certificate courses. 以本學期為例，我們與AI創智學院合作可以以優惠價格考取證照
+✨ Club-cadre-only certificate courses. Take this semester as an example, we've cooperated with College of Artificial Innovative Intelligence and get some discount for certificate examinations
 
-✨ 每月邀請業師開講的幹部訓練
+✨ Club cadre training courses taught by industry teachers each month
 
 ✨ Free of membership fee!
 
@@ -76,7 +76,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeaq6g3wujaJdkC6P8eYWCBH2nWoh6v4mvr2jUS
 
 &nbsp;
 
-\* 表單前半段為社員報名表單，若點選有意願成為幹部，請繼續填寫選幹相關資料。
+\* the 2nd section of the form is for club member sign up. If you're willing to become one of the club cadres, please fill the remaining parts of the form.
 
 &nbsp;
 
