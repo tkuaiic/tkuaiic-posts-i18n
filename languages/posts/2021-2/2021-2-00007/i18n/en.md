@@ -12,11 +12,11 @@ AI跨域整合工作坊 - Part 1
 
 &nbsp;
 
-搜尋AI跨域整合
+Search "AI跨域整合" (AI Interdisciplinary Integration) in the enrollment system!
 
-4月8日 12:00 正式開放報名
+Enrollment starts at April 8 12:00 (UTC+8)
 
-截至活動開始！
+End of enrollment: Until the event starts!
 
 &nbsp;
 

@@ -28,7 +28,7 @@ there will be a formal event to introduce our club courses!
 
 &nbsp;
 
-Time: Tuesday, March 22, 2022 18:00 - 20:00 <br />(Remember to finish your dinner before you come!)
+Time: Tuesday, March 22, 2022 18:00 - 20:00 (UTC+8) <br />(Remember to finish your dinner before you come!)
 
 Location: <br />Reality Fields, College of Artificial Innovative Intelligence <br />3rd Floor, Main Engineering Building (Building E), Tamkang University
 
