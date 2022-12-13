@@ -18,11 +18,11 @@ with some club courses are scheduled at weekends.
 
 ｜Thursday: Project(s)｜
 
-週四18:10-20:00的專案讀書會，
+These side project(s) & study group(s) are scheduled on Thursday,
 
-是給想挑戰專案開發的社員參加，
+with the aims to give some chances for those who want to try / challenge project development.
 
-所以不強迫所有社員參與～
+Thus, it's not force-participated.
 
 &nbsp;
 
@@ -34,9 +34,9 @@ These courses are scheduled at weekends,
 
 with the total of 48 hours.
 
-如果網管學得好的話，
+If you learned / studied server & internet administration well,
 
-可以往網路管理工程師這條路走喔！
+you can try to work as a sysadmin!
 
 &nbsp;
 
