@@ -1,5 +1,8 @@
 # 2021-2-00006
 
+* Title
+	* en: Membership Fee 2021-2
+	* zh-Hant: 110-2 社費
 * Instagram: https://www.instagram.com/p/Cbsd7wYBF3b
 * LinkedIn zh-Hant: https://www.linkedin.com/posts/tkuaiic_tku-tkuaiic-activity-7007955963471179776-VfID
 * LinkedIn en:
