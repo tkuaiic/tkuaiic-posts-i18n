@@ -7,4 +7,4 @@
 * LinkedIn zh-Hant: https://www.linkedin.com/posts/tkuaiic_tamkanguniversity-tku-tkuaiic-activity-7008620675221401601-CCI1
 * LinkedIn en:
 
-![main image in zh-Hant](./2021-2-00018_zh-hant.jpg)
+![main image in zh-Hant](./2021-2-00019_zh-hant.jpg)
