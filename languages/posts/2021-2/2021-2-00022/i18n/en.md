@@ -14,7 +14,7 @@
 
 活動時間：
 
-5月31日 (二) 18:00－20:00
+5月31日 (二) 18:00－20:00 (UTC+8)
 
 &nbsp;
 
@@ -42,11 +42,13 @@ Microsoft Teams該會議中聊天室留言「系級 學號 姓名」
 
 &nbsp;
 
-⛄️活動對象：
+活動對象：
 
 Club members of Artificial Innovative Intelligence Club
 
-✍️報名方式：
+&nbsp;
+
+報名方式：
 
 填寫Google表單
 
