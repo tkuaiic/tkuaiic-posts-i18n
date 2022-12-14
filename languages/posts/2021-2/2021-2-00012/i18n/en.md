@@ -56,7 +56,7 @@ MS Teams 該會議中聊天室留言「系級 學號 姓名」
 
 活動對象：
 
-AI創智社社員
+Club members of Artificial Innovative Intelligence Club
 
 （現在還可以加入我們喔！）
 
