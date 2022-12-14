@@ -34,7 +34,11 @@
 
 &nbsp;
 
-社員迎新大會報名表單連結：已截止
+社員迎新大會報名表單連結：
+
+https://docs.google.com/forms/d/1kZW1Y053GQJ_jLtDQD269TfOaE82Ji0ldpsNjnCGoxQ/viewform
+
+（已截止）
 
 表單截止：3月21日 18:00前
 
