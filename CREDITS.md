@@ -3,9 +3,12 @@ following names for their contribution to the project.
 
 ## Contributors
 <!-- BEGIN CONTRIBUTOR LIST -->
-* WinstonSung
+* a2902793 (Johnny Yeng)
+* Chloe Fan
+* WinstonSung (Winston Sung)
 <!-- END CONTRIBUTOR LIST -->
 
 ## Translators
-
+<!-- BEGIN TRANSLATOR LIST -->
 * Winston_Sung
+<!-- END TRANSLATOR LIST -->
