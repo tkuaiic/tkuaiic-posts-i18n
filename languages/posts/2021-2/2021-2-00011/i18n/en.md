@@ -48,6 +48,8 @@ AI創智學院實境場域
 
 填寫Google表單
 
+https://docs.google.com/forms/d/1pOMfPfUzFhpOnSN6EQOxMH4BN9SIwn_fGSJr21YFyM8/viewform
+
 &nbsp;
 
 Contact us:

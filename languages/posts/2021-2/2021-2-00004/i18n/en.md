@@ -34,7 +34,11 @@ Location: <br />Reality Fields, College of Artificial Innovative Intelligence <b
 
 &nbsp;
 
-社員迎新大會報名表單連結：已截止
+Link of the enrollment form:
+
+https://docs.google.com/forms/d/1kZW1Y053GQJ_jLtDQD269TfOaE82Ji0ldpsNjnCGoxQ/viewform
+
+(end of enrollment)
 
 End of enrollment of the form: Monday, March 21, 18:00 (UTC+8)
 

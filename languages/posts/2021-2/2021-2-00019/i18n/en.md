@@ -60,6 +60,8 @@ AI創智社社員
 
 填寫Google表單
 
+https://docs.google.com/forms/d/1SIkQx0QNb62u8fFYDhSUwoShpq4f5RaKXlmoYiGl42M/viewform
+
 為了方便統計此次社課參與人數，還是麻煩大家填寫表單囉~
 
 &nbsp;
