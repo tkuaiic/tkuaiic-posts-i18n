@@ -18,7 +18,7 @@
 
 &nbsp;
 
-授課方式：
+活動方式：
 
 Microsoft Teams 線上會議
 
