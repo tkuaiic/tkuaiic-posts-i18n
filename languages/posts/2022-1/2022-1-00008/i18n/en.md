@@ -54,6 +54,7 @@ Club members of Artificial Innovative Intelligence Club
 
 填寫Google表單
 
+https://docs.google.com/forms/d/1Mht0LecTVCZp1LREKh5oG4U-m0Thq068Wqx7VIfPobI/viewform
 
 為了方便統計此次社課參與人數，還是麻煩大家填寫表單囉~
 
